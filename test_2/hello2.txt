@@ -1,6 +1,10 @@
 this is a hello for test2
+<<<<<<< HEAD
 added Tara
 
+=======
+My name is Hooman
+>>>>>>> 309f224 (added hooman)
 
 
 
